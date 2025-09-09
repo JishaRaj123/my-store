@@ -49,21 +49,21 @@ technologies to deliver a scalable and efficient online shopping solution. Here 
 
 
 ## screenshots
-                                                       Login page
+                                                           Login page
 <img width="1920" height="869" alt="FireShot Capture 033 -  -  localhost" src="https://github.com/user-attachments/assets/cebb836a-2eb4-4a29-8824-2447124fbec9" />
 
-Home Page
+                                                           Home Page
 <img width="1920" height="4201" alt="FireShot Capture 026 - NovaMart -  localhost" src="https://github.com/user-attachments/assets/54ec30fe-04c2-411d-b618-1870c2ae5298" />
 
-Home Inside Folder Page(1 page only for reference )
+                                                           Home Inside Folder Page(1 page only for reference )
 <img width="1920" height="1169" alt="FireShot Capture 027 -  -  localhost" src="https://github.com/user-attachments/assets/c07423e5-322d-41bf-90e2-152189421284" />
 
-Your Cart Page
+                                                           Your Cart Page
 <img width="1920" height="1080" alt="FireShot Capture 028 -  -  localhost" src="https://github.com/user-attachments/assets/140f0d46-9c38-4c39-b49b-2bc36e4ea38b" />
 
-Stripe Payment Page
+                                                          Stripe Payment Page
 <img width="1920" height="988" alt="FireShot Capture 032 - New business sandbox -  checkout stripe com" src="https://github.com/user-attachments/assets/d09e94da-e167-43a4-b35b-3378006d676d" />
 
-Payment Successfull Page
+                                                          Payment Successfull Page
 <img width="1920" height="869" alt="FireShot Capture 024 -  -  localhost" src="https://github.com/user-attachments/assets/a1243fad-9535-4391-990c-36e4b0466718" />
 
