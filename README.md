@@ -34,12 +34,18 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-##About
+## About
 The e-commerce storefront with an admin panel successfully integrates modern web 
 technologies to deliver a scalable and efficient online shopping solution. Here the images directly added from google.
 
 
-##screenshots
+## screenshots
+<img width="1920" height="869" alt="FireShot Capture 033 -  -  localhost" src="https://github.com/user-attachments/assets/cebb836a-2eb4-4a29-8824-2447124fbec9" />
+<img width="1920" height="4201" alt="FireShot Capture 026 - NovaMart -  localhost" src="https://github.com/user-attachments/assets/54ec30fe-04c2-411d-b618-1870c2ae5298" />
+<img width="1920" height="1169" alt="FireShot Capture 027 -  -  localhost" src="https://github.com/user-attachments/assets/c07423e5-322d-41bf-90e2-152189421284" />
+<img width="1920" height="1080" alt="FireShot Capture 028 -  -  localhost" src="https://github.com/user-attachments/assets/140f0d46-9c38-4c39-b49b-2bc36e4ea38b" />
+<img width="1920" height="988" alt="FireShot Capture 032 - New business sandbox -  checkout stripe com" src="https://github.com/user-attachments/assets/d09e94da-e167-43a4-b35b-3378006d676d" />
+<img width="1920" height="869" alt="FireShot Capture 024 -  -  localhost" src="https://github.com/user-attachments/assets/a1243fad-9535-4391-990c-36e4b0466718" />
 
 
 ## Deploy on Vercel
