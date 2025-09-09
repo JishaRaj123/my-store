@@ -47,7 +47,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/b
 The e-commerce storefront with an admin panel successfully integrates modern web 
 technologies to deliver a scalable and efficient online shopping solution. Here the images directly added from google.
 
-above attached projct report 
+Above attached Project Report for Reference.
 
 ## screenshots
                                                            Login page
